@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main(){
 	int n,i,j;
+	printf("C.Kushwanthu-192211304\n");
 	printf("Enter the no.of items: ");
 	scanf("%d",&n);
 	int weight[n],value[n];
