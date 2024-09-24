@@ -60,7 +60,7 @@ int main() {
     }
 
     if (solveNQueens(0)) { 
-	    printf("R.Babu Eshwar-192211778/n"); 
+	    printf("C.Kushwanthu-192211304\n");
         printf("The solution is:\n");
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
