@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main(){
 	int i,j,rows,s,coef=1;
+	printf("C.Kushwanthu-192211304\n");
 	printf("Enter the rows: ");
 	scanf("%d",&rows);
 	for(i=0;i<rows;i++){
