@@ -6,7 +6,7 @@ int main() {
     int subset[20];     // Array to store the current subset
     int current_sum = 0; // Track the sum of the current subset
     int include[20];    // To mark whether the element is included in the subset
-
+    printf("C.Kushwanthu-192211304\n");
     // Input: number of elements in the set
     printf("Enter the number of elements in the set: ");
     scanf("%d", &n);
