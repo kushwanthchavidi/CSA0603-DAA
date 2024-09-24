@@ -8,6 +8,7 @@ int main(){
 		sum+=rem;
 		n/=10;
 	}
+	printf("C.Kushwanthu-192211304\n");
 	printf("the sum is: %d",sum);
 	return 0;
 }
