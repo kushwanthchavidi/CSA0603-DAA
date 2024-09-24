@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
 	int n,arr[100],i,j,key;
-	
+	printf("C.Kushwanthu-192211304\n");
 	printf("Enetr the size: ");
 	scanf("%d",&n);
 	printf("Enter the elements: ");
