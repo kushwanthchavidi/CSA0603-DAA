@@ -2,6 +2,7 @@
 int main(){
 	int n,p,v;
 	int arr[100];
+	printf("C.Kushwanthu-192211304\n");
 	printf("Enter the size: ");
 	scanf("%d",&n);
 	printf("Enter the elements: ");
