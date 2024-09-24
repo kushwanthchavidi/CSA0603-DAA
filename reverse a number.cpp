@@ -9,7 +9,7 @@ int main(){
 		b=b*10+a;
 		n=n/10;
 	}
-	printf("R.Babu Eshwar-192211778\n");
+	printf("C.Kushwanthu-192211304\n");
 	printf("The reversed number is: %d",b);
 	return 0;
 }
