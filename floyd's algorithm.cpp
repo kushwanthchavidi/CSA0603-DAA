@@ -6,7 +6,7 @@
 int main() {
     int n;  
     int dist[MAX][MAX];  
-    printf("R.Babu Eshwar-192211778\n");
+    printf("C.Kushwanthu-192211304\n");
     printf("Enter the number of vertices: ");
     scanf("%d", &n);
 
