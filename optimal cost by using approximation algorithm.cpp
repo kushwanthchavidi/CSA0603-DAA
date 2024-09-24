@@ -4,7 +4,7 @@
 int main() {
     int n;
 
-    printf("R.Babu eshwar-192211778\n");
+    printf("C.Kushwanthu-192211304\n");
     printf("Enter the number of matrices: ");
     scanf("%d", &n);
 
