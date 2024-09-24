@@ -6,7 +6,7 @@ int main() {
     int weights[100];    
     int values[100];     
     int dp[101][101];    
-    printf("R.Babu Eshwar-192211778\n");
+    printf("C.Kushwanthu-192211304\n");
     printf("Enter the number of items: ");
     scanf("%d", &n);
 
