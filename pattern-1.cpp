@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main(){
 	int n,i,space,j;
+	printf("C.Kushwanthu-192211304\n");
 	printf("Enter the no.of rows: ");
 	scanf("%d",&n);
 	for(i=1;i<=n;i++){
