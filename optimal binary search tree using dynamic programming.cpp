@@ -37,7 +37,7 @@ int main() {
     int keys[] = {10, 12, 20};
     int freq[] = {34, 8, 50};
     int n = sizeof(keys) / sizeof(keys[0]);
-    printf("R.Babu Eshwar-192211778\n");
+    printf("C.Kushwanthu-192211304\n");
     printf("Cost of Optimal BST is %d\n", optimalBST(keys, freq, n));
     return 0;
 }
