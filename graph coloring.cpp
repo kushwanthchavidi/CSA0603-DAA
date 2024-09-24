@@ -65,7 +65,7 @@ int main() {
     }
 
     if (found_solution) {
-    	printf("R.Babu Eshwar-192211778\n");
+    	printf("C.Kushwanthu-192211304\n");
         printf("Solution found! The colors assigned to the vertices are:\n");
         for (int i = 0; i < V; i++) {
             printf("Vertex %d -> Color %d\n", i, colors[i]);
